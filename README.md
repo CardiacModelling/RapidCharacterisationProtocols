@@ -1,4 +1,4 @@
-# RapidCharacterisationProtocols
+# Rapid Characterisation Protocols for patch-clamp electrophysiology
 Collection of protocols for rapid characterisation of ion channels, in both plain text `.txt` and comma-separated-value `.csv` formats.
 
 ## Sinusoidal voltage clamp for hERG/IKr measurements
