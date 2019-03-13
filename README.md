@@ -1,5 +1,9 @@
 # Rapid Characterisation Protocols for patch-clamp electrophysiology
-Collection of protocols for rapid characterisation of ion channel kinetics, in both plain text `.txt` and comma-separated-value `.csv` formats.
+Collection of protocols for rapid characterisation of ion channel kinetics.
+
+Here we have provided plain text `.txt` and comma-separated-value `.csv` formats.
+
+`.atf` files are also provided and are intended to be used with the Axon pClamp software.
 
 ## Sinusoidal voltage clamp for hERG/IKr measurements
 
