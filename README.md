@@ -24,12 +24,16 @@ Each file has two columns, the first one is time (in [seconds]) and the second c
 
 # Acknowledging this work
 
-If you publish any work based on the contents of this repository please cite:
+Please cite the following papers if you use the protocols above for any studies:
+
+## Staircase protocol
 
 Lei, C. L., Clerx, M., Gavaghan, D. J., Polonchuk, L., Mirams, G. R., Wang, K.
 (2019).
 [Rapid characterisation of hERG channel kinetics I: using an automated high-throughput system](https://doi.org/10.1101/609727).
 _bioRxiv_, 609727.
+
+## Sinusoidal protocol
 
 Beattie, K. A., Hill, A. P., Bardenet, R., Cui, Y., Vandenberg, J. I., Gavaghan, D. J., de Boer, T. P. & Mirams, G. R.
 (2018).
