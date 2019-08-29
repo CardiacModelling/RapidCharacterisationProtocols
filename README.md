@@ -30,8 +30,8 @@ Please cite the following papers if you use the protocols above for any studies:
 
 Lei, C. L., Clerx, M., Gavaghan, D. J., Polonchuk, L., Mirams, G. R., Wang, K.
 (2019).
-[Rapid characterisation of hERG channel kinetics I: using an automated high-throughput system](https://doi.org/10.1101/609727).
-_bioRxiv_, 609727.
+[Rapid characterisation of hERG channel kinetics I: using an automated high-throughput system](https://doi.org/10.1016/j.bpj.2019.07.029).
+_Biophysical Journal_, 117:(in press).
 
 ## Sinusoidal protocol
 
