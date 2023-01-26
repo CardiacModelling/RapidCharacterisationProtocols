@@ -10,11 +10,15 @@ Some also support `.eph` files which are intended to be used with the Nanion Syn
 
 ## Staircase voltage clamp for hERG/IKr measurements
 The protocol `staircase-ramp` is a short, high information-content voltage clamp protocol that is applicable in _automated high-throughput patch clamp systems_.
-The protocol and its application have a dedicated [Github repository](https://github.com/CardiacModelling/hERGRapidCharacterisation).
+A dedicated [Github repository](https://github.com/CardiacModelling/hERGRapidCharacterisation) shows how to fit to data from this protocol
+
+![Staircase protocol](https://github.com/CardiacModelling/RapidCharacterisationProtocols/raw/master/staircase-ramp-example.png)
 
 ## Sinusoidal voltage clamp for hERG/IKr measurements
 The protocol `sinewave-ramp` is a slightly-updated version of the sinusoidal voltage clamp we first published in 2018 (which has a dedicated [Github repository](http://www.github.com/mirams/sine-wave)).
 The update here is a ramp during the initial 'leak step' rather than a fixed potential.
+
+![Sinusoidal protocol](https://github.com/CardiacModelling/RapidCharacterisationProtocols/raw/master/sinewave-ramp-example.png)
 
 
 # Format/Units
